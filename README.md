@@ -6,11 +6,11 @@ This Texture Pack is in beta, which is why below you will find the things added,
 
 # Added Textures:
 
-Wooden Sword
-Stone Sword
-Iron Sword
-Golden Sword
-Diamond Sword
+- Wooden Sword
+- Stone Sword
+- Iron Sword
+- Golden Sword
+- Diamond Sword
 
 # Features to Be Added
 
