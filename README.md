@@ -11,6 +11,7 @@ This Texture Pack is in beta, which is why below you will find the things added,
 - Iron Sword
 - Golden Sword
 - Diamond Sword
+- Netherite Sword
 
 # Features to Be Added
 
