@@ -12,6 +12,11 @@ This Texture Pack is in beta, which is why below you will find the things added,
 - Golden Sword
 - Diamond Sword
 - Netherite Sword
+- Leather Boots
+- Chainmail Boots
+- Iron Boots
+- Diamond Boots
+- Netherite Boots
 
 # Features to Be Added
 
