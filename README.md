@@ -17,6 +17,9 @@ This Texture Pack is in beta, which is why below you will find the things added,
 - Iron Boots
 - Diamond Boots
 - Netherite Boots
+- Golden Leggings
+- Diamond Leggings
+- Netherite Leggings
 
 # Features to Be Added
 
